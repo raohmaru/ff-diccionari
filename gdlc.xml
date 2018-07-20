@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>GDLC</ShortName>
+  <Description>Gran Diccionari de la Llengua Catalana search plugin. Searches on the diccionari.cat website</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAACFDm4A7I7fAMVTtQCkLowAjQ99APzS%2FADbccoApSaRAPy5%2BQD8%2FPwAv0OpAPyk7ADTZsAA5ILUAPzj%2FAC0NqAAREREAAAABEREREB2xmZAREREQEmZmRBEQAQADJmndEQP8EcAmbAARMV%2FiPApnWIEaQRYeg6ZmfBJIHk3D5nHcAyUAVBAieAAQL4AnwB5mZlEAbCJBA3u7kRA%2FCkgQAAAREQAApBERERERERA5gREREREREDZQEREREREBKZwREQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Image>
+
+<Url type="text/html" method="GET" template="http://www.diccionari.cat/cgi-bin/AppDLC3.exe">
+  <Param name="APP" value="CERCADLC"/>
+  <Param name="GECART" value="{searchTerms}"/>
+</Url>
+<moz:SearchForm>http://www.diccionari.cat/</moz:SearchForm>
+
+</OpenSearchDescription>
