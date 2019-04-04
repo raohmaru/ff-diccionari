@@ -2,7 +2,7 @@
 
 Extensió de Mozilla Firefox per cercar al Gran Diccionari de la Llengua Catalana (diccionari.cat).
 
-A Firefox search engine plugins for Gran Diccionari de la Llengua Catalana (one of the most comprehensive Catalan dictionaries).
+A Firefox search engine plugin for Gran Diccionari de la Llengua Catalana (one of the most comprehensive Catalan dictionaries).
 
 --
 
